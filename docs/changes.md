@@ -1,4 +1,4 @@
-# Magisk Changelog
+# ماجيسك تغيير السجل
 
 ### v30.0
 
@@ -56,7 +56,7 @@
 - [MagiskBoot] Support compressing `init` so Magisk is installable on devices with small boot partitions
 - [ResetProp] Add new wait for property feature `resetprop -w`
 
-### v26.4
+### V26.4
 
 - [MagiskBoot] Don't pad zeros if signed boot image is larger
 - [MagiskPolicy] Fix `genfscon` and `filename_trans`
